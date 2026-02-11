@@ -1,0 +1,15 @@
+﻿# Compras
+## Laticínios
+1. Leite
+2. Ovos
+## Mercearia
+1. Farinha
+2. Oleo
+3. Açucar
+## Temperos
+1. Sal
+2. Água
+3. Vinagre
+## Bebidas
+1. Coca
+2. Suco
