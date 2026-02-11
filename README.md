@@ -1,6 +1,6 @@
 # Exercícios da Aula 1 de Desenvolvimento Web I - ADS
 
-[Artigo](artigo.md) Artigo sobre a história do chile. 
+[Artigo](artigos.md) Artigo sobre a história do chile. 
 
 [Lista de compras](lista_de_compras.md) Lista de compras para comprar no mercado
 
